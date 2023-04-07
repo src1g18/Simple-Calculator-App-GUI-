@@ -1,2 +1,2 @@
-# Simple-Calculator-App-GUI-
+# Simple-Calculator-App
 This uses kivy packages and python code.
